@@ -1,2 +1,2 @@
-# glossy
-✨ React UI Kit by Høussaine Amzil ✨
+# muses
+🌲 React UI Kit by Høussaine Amzil (houssaineamzil) 🌲

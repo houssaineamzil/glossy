@@ -1,2 +1,2 @@
 # Pōseıdon
-🌲 React UI Kit by Høussaine Amzil (houssaineamzil) 🌲
+React UI Kit by Hōussaıne Amzıl (houssaineamzil)
